@@ -38,3 +38,4 @@
 #### referrer
 
 - [http://facebook.github.io/react/docs/getting-started.html](http://facebook.github.io/react/docs/getting-started.html)
+- [http://bbs.reactnative.cn/](http://bbs.reactnative.cn/)
