@@ -22,3 +22,12 @@
    + ./gradlew :Examples:Movies:android:app:installDebug
     + ./packager/packager.sh (Start the packager in a separate shell (make sure you ran npm install))
 
+### [coderwall](https://coderwall.com/p/suvorq/beginning-react-native)
+
+1. Clone main react native repository from github: 
+ - git clone https://github.com/facebook/react-native
+2. Copy Examples/SampleApp to Examples/AwesomeProject 
+ - mkdir Examples/AwesomeProject cp -R Examples/SampleApp Examples/AwesomeProject
+3. Run packager.sh to point to AwesomeProject just created: 
+ - packager/packager.sh --root=./Examples/AwesomeProject
+4. Now reopen again AwesomeProject in Xcode and start building.
