@@ -34,3 +34,7 @@
 
 
 **if npm install --save react-native fail , you can try above**
+
+#### referrer
+
+- [http://facebook.github.io/react/docs/getting-started.html](http://facebook.github.io/react/docs/getting-started.html)
