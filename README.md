@@ -31,3 +31,6 @@
 3. Run packager.sh to point to AwesomeProject just created: 
  - packager/packager.sh --root=./Examples/AwesomeProject
 4. Now reopen again AwesomeProject in Xcode and start building.
+
+
+**if npm install --save react-native fail , you can try above**
